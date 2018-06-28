@@ -1,0 +1,28 @@
+p{
+	color:white;
+	background-color: black;
+}
+
+.className
+{
+	color: green;
+}
+
+h1:hover{
+		color: orange;
+	}
+p::first-letter {
+	font-size: 30pt;
+	font-weight:300;
+}
+h2:disabled{
+	color: gray;
+}
+p::selection{
+	background-color: red;
+	color: white;
+}
+
+p{
+	font-family: "Montserrat";
+}
